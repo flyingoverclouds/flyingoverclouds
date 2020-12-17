@@ -1,4 +1,5 @@
 ### Hi there 👋
+💬 Ask me about : .Net, Cloud Architecture, et plein d'autres choses !
 
 <!--
 **flyingoverclouds/flyingoverclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
