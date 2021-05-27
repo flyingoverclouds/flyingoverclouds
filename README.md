@@ -1,6 +1,7 @@
 ### Hi there 👋
 💬 Ask me about : .Net, Cloud Architecture, et plein d'autres choses !
 
+Des bouts de code et des trucs & astuces sur mon gist : https://gist.github.com/flyingoverclouds 
 <!--
 **flyingoverclouds/flyingoverclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
