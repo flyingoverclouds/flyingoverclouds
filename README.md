@@ -2,6 +2,8 @@
 💬 Ask me about : .Net, Cloud Architecture, et plein d'autres choses !
 
 Des bouts de code et des trucs & astuces sur mon gist : https://gist.github.com/flyingoverclouds 
+Mes aides mémoire CLI : [AZ cli](https://gist.github.com/flyingoverclouds/519f78f8271148792ccb315f7c57c97d) [AZ Container Resgistry](https://gist.github.com/flyingoverclouds/25772fc94465bbd276e48d57f705bab2) [Docker](https://gist.github.com/flyingoverclouds/0585d721d434e4d2ba123352c4924123) [Docker-Compose](https://gist.github.com/flyingoverclouds/7655d7529318d39d40702e22420c9d04) [Kubernetes](https://gist.github.com/flyingoverclouds/c272a73e91e2dc8f59e2a28cbf036110) [Minikube](https://gist.github.com/flyingoverclouds/d8caaca74e136d59a8fbbe48bfb7aa88]
+
 <!--
 **flyingoverclouds/flyingoverclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
