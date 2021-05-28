@@ -1,9 +1,8 @@
-### Hi there 👋
 💬 Ask me about : .Net, Cloud Architecture, et plein d'autres choses !
 
 Des bouts de code et des trucs & astuces sur mon gist : https://gist.github.com/flyingoverclouds 
 
-Mes aides mémoire CLI : [AZ cli](https://gist.github.com/flyingoverclouds/519f78f8271148792ccb315f7c57c97d) 
+⚡ Mes aides mémoire CLI : [AZ cli](https://gist.github.com/flyingoverclouds/519f78f8271148792ccb315f7c57c97d) 
 | [AZ Container Resgistry](https://gist.github.com/flyingoverclouds/25772fc94465bbd276e48d57f705bab2) 
 | [Docker](https://gist.github.com/flyingoverclouds/0585d721d434e4d2ba123352c4924123) 
 | [Docker-Compose](https://gist.github.com/flyingoverclouds/7655d7529318d39d40702e22420c9d04) 
@@ -14,7 +13,7 @@ Mes aides mémoire CLI : [AZ cli](https://gist.github.com/flyingoverclouds/519f7
 **flyingoverclouds/flyingoverclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
