@@ -8,6 +8,7 @@ Des bouts de code et des trucs & astuces sur mon gist : https://gist.github.com/
 | [Docker-Compose](https://gist.github.com/flyingoverclouds/7655d7529318d39d40702e22420c9d04) 
 | [Kubernetes](https://gist.github.com/flyingoverclouds/c272a73e91e2dc8f59e2a28cbf036110) 
 | [Minikube](https://gist.github.com/flyingoverclouds/d8caaca74e136d59a8fbbe48bfb7aa88)
+| [sh](https://gist.github.com/flyingoverclouds/155829c2b66fac5dc957b11ed35849e2)
 
 <!--
 **flyingoverclouds/flyingoverclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
