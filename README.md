@@ -1,4 +1,4 @@
-💬 Ask me about : .Net, Cloud Architecture, et plein d'autres choses !
+💬 Ask me about : .Net, Software development, Cloud Architecture, et plein d'autres choses !
 
 Des bouts de code et des trucs & astuces sur mon gist : https://gist.github.com/flyingoverclouds 
 
