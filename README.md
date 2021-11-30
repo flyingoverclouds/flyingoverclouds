@@ -11,6 +11,7 @@ Des bouts de code et des trucs & astuces sur mon gist : https://gist.github.com/
 | [sh](https://gist.github.com/flyingoverclouds/155829c2b66fac5dc957b11ed35849e2)
 | [PowerShell](https://gist.github.com/flyingoverclouds/866448b02bac6ab7139953235210a072)
 
+Et ... don't forgot : READ THAT F.... DOC ! 👋
 <!--
 **flyingoverclouds/flyingoverclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
